@@ -12,6 +12,7 @@ This script can be **extensivly customised** and tailored to search ANY book (an
 In the command prompt / terminal, type in these two commands.
 
 ``` pip install bs4 ```
+
 *AND*
 
 ```pip install lxml```
