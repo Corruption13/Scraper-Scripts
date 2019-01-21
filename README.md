@@ -18,9 +18,9 @@ In the command prompt / terminal, type in these two commands.
 
 ```pip install lxml```
 
-## This scraper can scrape books based on the Internation Standard for Book Numbers code to mine data for the catalogue of books in Flipkart.com
 
-The code does not currently have multi-thread support nor proxy hiding as of date.
+
+The code does not currently have multi-thread support.
 
 **The code will output a "Data.csv" file containing all the books that it scraped.**
 The execution time as of date is 2000 books in 20 minutes
