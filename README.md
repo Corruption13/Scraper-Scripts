@@ -1,9 +1,9 @@
 
-#Scraper-Scripts
+# Scraper-Scripts
 A repo containing all the scripts related to scraping the web!
 
 
-#1) Flipkart Scraper (Books) - **EXTREMLY CUSTOMISABLE BOOK CRAWLER**
+# 1) Flipkart Scraper (Books) - **EXTREMLY CUSTOMISABLE BOOK CRAWLER**
 
 This script can be **extensivly customised** and tailored to search ANY book (and any item with a bit more modifications) based on ANY genre, if you follow the instructions in the top documentation of the file.
 
@@ -11,11 +11,12 @@ This script can be **extensivly customised** and tailored to search ANY book (an
 
 In the command prompt / terminal, type in these two commands.
 
-'''pip install bs4'''
+``` pip install bs4 ```
+*AND*
 
-'''pip install lxml'''
+```pip install lxml```
 
-##This scraper can scrape books based on the Internation Standard for Book Numbers code to mine data for the catalogue of books in Flipkart.com
+## This scraper can scrape books based on the Internation Standard for Book Numbers code to mine data for the catalogue of books in Flipkart.com
 
 The code does not currently have multi-thread support nor proxy hiding as of date.
 
