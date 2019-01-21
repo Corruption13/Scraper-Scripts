@@ -3,7 +3,8 @@
 A repo containing all the scripts related to scraping the web!
 
 
-# 1) Flipkart Scraper (Books) - **EXTREMLY CUSTOMISABLE BOOK CRAWLER**
+# 1) Flipkart Scraper (Books) 
+## **EXTREMLY CUSTOMISABLE BOOK CRAWLER**
 
 This script can be **extensivly customised** and tailored to search ANY book (and any item with a bit more modifications) based on ANY genre, if you follow the instructions in the top documentation of the file.
 
