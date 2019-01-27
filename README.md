@@ -25,4 +25,7 @@ The code does not currently have multi-thread support.
 **The code will output a "Data.csv" file containing all the books that it scraped.**
 The execution time as of date is 2000 books in 20 minutes
 
-(TESTED ON: Intel i5-7300 HQQ CPU @ 2.50 GHz, 1 MB/s Network)
+(TESTED ON: Intel i7-7700 HQ CPU @ 2.50 GHz, 1 MB/s Network)
+
+Execution time for 2000 books is 18 minutes as tested on Intel Core i5-8300H , 10MB/s network
+ 
