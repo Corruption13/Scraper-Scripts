@@ -1,9 +1,0 @@
-# S Sandeep Pillai
-Enter your URL in URL.txt
-Make sure you have the modules installed via pip:
-
-pip install lxml
-pip install bs4
-
-
-Execute the master.py script to run the script.
