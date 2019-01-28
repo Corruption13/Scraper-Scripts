@@ -21,6 +21,7 @@ In the command prompt / terminal, type in these two commands.
 
 
 ~~The code does not currently have multi-thread support.~~
+
 **NEW:** Added multi-processing functionality to scraping multiple genre at once. Each URL in URL.txt will run on a seperate process tree.
 
 ### **The code will output a "Data.csv" file containing all the books that it scraped.**
