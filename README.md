@@ -20,10 +20,14 @@ In the command prompt / terminal, type in these two commands.
 
 
 
-The code does not currently have multi-thread support.
+~~The code does not currently have multi-thread support.~~
+**NEW:** Added multi-processing functionality to scraping multiple genre at once. Each URL in URL.txt will run on a seperate process tree.
 
-**The code will output a "Data.csv" file containing all the books that it scraped.**
-The execution time as of date is 2000 books in 20 minutes
+### **The code will output a "Data.csv" file containing all the books that it scraped.**
+
+The execution time as of date is 2000 books in 20 minutes **PER** thread.
+
+10 different genre threads output 20,000 books in 20 minutes.
 
 (TESTED ON: Intel i7-7700 HQ CPU @ 2.50 GHz, 1 MB/s Network)
 
