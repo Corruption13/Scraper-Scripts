@@ -1,6 +1,6 @@
 
 # Scraper-Scripts
-A repo containing all the scripts related to scraping the web!
+A repo containing all the self-made **Open Source** scripts related to scraping the web!
 
 
 # 1) Flipkart Scraper (Books) 
