@@ -33,12 +33,13 @@ https://www.flipkart.com/books/educational-and-professional-books/pr?sid=bks,enp
 
 2) Execute **master.py** to execute the script.
 
+#### Patch Notes
 
 ~~The code does not currently have multi-thread support.~~
 
 **NEW:** Added multi-processing functionality to scraping multiple genre at once. Each URL in URL.txt will run on a seperate process tree.
 
-### **The code will output a "Data.csv" file containing all the books that it scraped.**
+### **The code will output a "Data.csv" folder containing all the assigned genres in seperate files that it scraped.**
 
 ## **Benchmark**
 
