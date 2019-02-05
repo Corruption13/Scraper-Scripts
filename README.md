@@ -33,6 +33,17 @@ https://www.flipkart.com/books/educational-and-professional-books/pr?sid=bks,enp
 
 2) Execute **master.py** to execute the script.
 
+#### Eg:
+
+Within the terminal:
+
+
+```
+cd <Folder Containing the repo files>
+python master.py
+
+```
+
 #### Patch Notes
 
 ~~The code does not currently have multi-thread support.~~
