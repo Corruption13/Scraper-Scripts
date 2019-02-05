@@ -21,10 +21,11 @@ In the command prompt / terminal, type in these two commands.
 
 ## Instructions:
 
-1)Add the URL of the search page containing the *collection* of books of the genre you wish to scrape, INTO the **URL.txt** file.
+1) Add the URL of the search page containing the *collection* of books of the genre you wish to scrape, INTO the **URL.txt** file.
 
 
 #### Eg:
+
 The URL for Education and Professional books genre is:
 
 https://www.flipkart.com/books/educational-and-professional-books/pr?sid=bks,enp&otracker=categorytree
