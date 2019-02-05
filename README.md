@@ -19,6 +19,19 @@ In the command prompt / terminal, type in these two commands.
 ```pip install lxml```
 
 
+## Instructions:
+
+1)Add the URL of the search page containing the *collection* of books of the genre you wish to scrape, INTO the **URL.txt** file.
+
+
+#### Eg:
+The URL for Education and Professional books genre is:
+
+https://www.flipkart.com/books/educational-and-professional-books/pr?sid=bks,enp&otracker=categorytree
+
+
+2) Execute **master.py** to execute the script.
+
 
 ~~The code does not currently have multi-thread support.~~
 
