@@ -35,7 +35,7 @@ https://www.flipkart.com/books/educational-and-professional-books/pr?sid=bks,enp
 
 #### Eg:
 
-Within the terminal:
+Within the terminal, type the following commands:
 
 
 ```
