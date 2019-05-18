@@ -1,4 +1,4 @@
-Pages_to_Scrape_per_genre = 1	
+Pages_to_Scrape_per_genre = 5
 //Double Slash text is ignored!//
 //Insert your URL's to each Genre be crawled below!//
 
