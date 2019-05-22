@@ -76,7 +76,7 @@ python master.py
 
 A sraper that fetches the absolute and relative gene expression values of all gene subspecies in the Salmonella Compendium.
 
-**NOTE: This scraper is not open source - it is a licenced and paid product that is protected and owned by the S Sandeep Pillai ©**
+**NOTE: This scraper is not open source - it is a licenced and paid product that is protected and owned by Mr S Sandeep Pillai ©**
 
 ## Dependencies
 
