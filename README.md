@@ -72,11 +72,11 @@ python master.py
  
 # 2) bioinf.gen.tcd.ie/ scraper
 
-## http://bioinf.gen.tcd.ie/cgi-bin/salcom.pl?_HL 
+### http://bioinf.gen.tcd.ie/cgi-bin/salcom.pl?_HL 
 
 A sraper that fetches the absolute and relative gene expression values of all gene subspecies in the Salmonella Compendium.
 
-**NOTE: This scraper is not open source - it is a licenced and paid product that is protected and owned by the S Sandeep Pillai ©
+**NOTE: This scraper is not open source - it is a licenced and paid product that is protected and owned by the S Sandeep Pillai ©**
 
 ## Dependencies
 
