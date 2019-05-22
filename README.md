@@ -70,3 +70,25 @@ python master.py
 
 (TESTED ON: Intel Core i5-8300H , 10MB/s network)
  
+# 2) bioinf.gen.tcd.ie/ scraper
+
+## http://bioinf.gen.tcd.ie/cgi-bin/salcom.pl?_HL 
+
+A sraper that fetches the absolute and relative gene expression values of all gene subspecies in the Salmonella Compendium.
+
+**NOTE: This scraper is not open source - it is a licenced and paid product that is protected and owned by the S Sandeep Pillai ©
+
+## Dependencies
+
+```
+pip install bs4
+pip install lxml
+```
+
+## Usage Instructions:
+
+Input the gene sequence name into the input.txt file and execute main.py
+
+
+
+
