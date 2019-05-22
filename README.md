@@ -87,7 +87,7 @@ pip install lxml
 
 ## Usage Instructions:
 
-Input the gene sequence name into the input.txt file and execute main.py
+Input the gene sequence name into the input.txt file in CSV format and execute main.py
 
 
 
