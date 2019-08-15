@@ -232,7 +232,7 @@ def main(url, pages):
 
 
 
-
-#main()
+if __name__ == '__main__':
+    print("Please run master.py") 
 
 print("Thank you for using my crawler, send suggestions at github.com/Corruption13\n\n")
