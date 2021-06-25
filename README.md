@@ -24,12 +24,11 @@ In the command prompt / terminal, type in these two commands.
  
 # 2) bioinf.gen.tcd.ie/ scraper
 
-### http://bioinf.gen.tcd.ie/cgi-bin/salcom.pl?_HL 
-
     A sraper that fetches the absolute and relative gene expression values of all gene subspecies in the Salmonella Compendium.
 
     **NOTE: This scraper is not open source - it is a licenced and paid product that is protected and owned by Mr S Sandeep Pillai ©**
-
+    
+[Website](http://bioinf.gen.tcd.ie/cgi-bin/salcom.pl?_HL)
 # 3) Bismi Scraper
 
     A Selenium powered scraper to fetch all grocery items from bismideal.com/grocery
