@@ -6,21 +6,15 @@ A repo containing all the self-made **Open Source** scripts related to scraping 
 
 
 # 1) Flipkart Scraper (Books) 
-## **EXTREMLY CUSTOMISABLE BOOK CRAWLER**
 
-This script can be **extensively customised** and tailored to scrape ANY book collection (and any item with a bit more modifications) based on ANY genre, if you follow the instructions in the top documentation of the file.
 
-## Requires Beautiful Soup 4 module LXML for compilation
 
 **Installation Instructions** 
 
 In the command prompt / terminal, type in these two commands.
 
-``` pip install bs4 ```
+``` pip install requirements.txt ```
 
-*AND*
-
-```pip install lxml```
 
 
 ## Instructions:
