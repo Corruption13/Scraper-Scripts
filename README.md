@@ -17,7 +17,9 @@ In the command prompt / terminal, type in these two commands.
 
     A scraper to scrape all books on flipkart by inputted genres.
 
-    Made to compare prices of books on Flipkart and amazon. [Case Study](https://towardsdatascience.com/amazon-vs-flipkart-finding-the-best-prices-for-books-bab29811b801?gi=fa85228ede4)
+    Made to compare prices of books on Flipkart and amazon. 
+
+[Case Study](https://towardsdatascience.com/amazon-vs-flipkart-finding-the-best-prices-for-books-bab29811b801?gi=fa85228ede4)
 
  
 # 2) bioinf.gen.tcd.ie/ scraper
@@ -31,7 +33,8 @@ In the command prompt / terminal, type in these two commands.
 # 3) Bismi Scraper
 
     A Selenium powered scraper to fetch all grocery items from bismideal.com/grocery
-    [Repo](https://github.com/Corruption13/bismi_scraper)
+    
+[Repo](https://github.com/Corruption13/bismi_scraper)
 
 
 
